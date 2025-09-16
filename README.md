@@ -1,3 +1,5 @@
-## Crear un proyecto nuevo
+## Comandos DJANGO
+
+### Crear un proyecto nuevo
 django-admin startproject mysite .
 
