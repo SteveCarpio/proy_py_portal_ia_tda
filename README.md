@@ -1,3 +1,3 @@
-# Crear un proyecto nuevo
-    django-admin startproject mysite .
+## Crear un proyecto nuevo
+django-admin startproject mysite .
 
