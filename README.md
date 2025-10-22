@@ -1,7 +1,3 @@
-## Comandos DJANGO
-
-### Crear un proyecto nuevo
-django-admin startproject mysite .
-
-### Ejecutar el servidor
-python manage.py runserver (puerto) : puedes poner otro puerto
+## python3 -m venv venv
+## source venv/bin/activate
+## streamlit run app.py --server.port=8502 --browser.serverAddress=0.0.0.0

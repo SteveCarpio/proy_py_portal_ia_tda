@@ -6,6 +6,7 @@ build/
 dist/
 models/
 data/
+chroma_db/
 
 # Ignorar files
 *.pyc
@@ -16,3 +17,4 @@ data/
 *.png
 *.mp3
 *.xxx
+*.sqlite3
